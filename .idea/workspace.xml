@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75082eb5-cc96-401e-8d36-619ac97165f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/CadaBien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/EntradadeAlmacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/OrdendeCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/SalidasdeAlmacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa Educando S.A/src/Solicitudes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/AltaTecnologia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Cpus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/DiscoDuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Impresoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Monitores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/ProductosAlquilables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Provee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Proveedores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/ServicioTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/SoporteTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empresa/src/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Funcionalidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Privilegio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Rol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/Usuario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gmc5NRDAHOg1rqMN00Wuifzwta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/FREDI VARGAS/IdeaProjects/Ejercicio5(tren)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75082eb5-cc96-401e-8d36-619ac97165f5" name="Changes" comment="" />
+      <created>1666997018571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666997018571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
